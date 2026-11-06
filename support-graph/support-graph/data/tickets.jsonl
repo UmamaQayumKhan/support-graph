@@ -1,0 +1,6 @@
+{"ticket_id": "t_1001", "customer_id": "cust_001", "workspace_id": "ws_demo", "subject": "SSO group mapping question", "opened": "2026-08-14", "resolution": "resolved: pointed to role mapping docs"}
+{"ticket_id": "t_1002", "customer_id": "cust_001", "workspace_id": "ws_demo", "subject": "Audit log retention on Growth", "opened": "2026-09-02", "resolution": "resolved: 90 days on Growth"}
+{"ticket_id": "t_1003", "customer_id": "cust_002", "workspace_id": "ws_acme", "subject": "Rate limited on 60 rpm", "opened": "2026-09-19", "resolution": "resolved: explained Starter limits"}
+{"ticket_id": "t_1004", "customer_id": "cust_004", "workspace_id": "ws_northstar", "subject": "Card declined twice", "opened": "2026-10-09", "resolution": "resolved: customer updated card"}
+{"ticket_id": "t_1005", "customer_id": "cust_004", "workspace_id": "ws_northstar", "subject": "API returning 402", "opened": "2026-10-21", "resolution": "escalated to billing"}
+{"ticket_id": "t_1006", "customer_id": "cust_005", "workspace_id": "ws_kestrel", "subject": "Unexpected overage charge", "opened": "2026-10-25", "resolution": "resolved: explained overage policy"}
